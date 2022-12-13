@@ -1,0 +1,19 @@
+  
+  .misform{
+    margin-left:80px;
+    text-align:justify;
+  }
+  
+  #txt_f2{
+
+    width: 500px;
+    height: 30px;
+    font-size: 1.5rem
+
+  }
+  #txt_f1{
+    text-decoration: underline; 
+    text-align: center;
+    font-size: 2rem;
+  }
+

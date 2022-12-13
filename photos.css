@@ -1,0 +1,14 @@
+
+.imgvan{
+
+    max-width : 100%; 
+    display : block;
+    margin : 0 auto;
+    top: 50%;
+    left: 50%;
+}
+
+.textphoto{
+text-align: center;
+
+}
